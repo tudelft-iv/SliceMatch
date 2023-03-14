@@ -1,4 +1,4 @@
-# CVPR2022: SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation
+# CVPR2023: SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation
 
 
 
