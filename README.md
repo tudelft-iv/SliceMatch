@@ -6,7 +6,7 @@
 
 
 
-### Citations
+### Citation Information
 ```
 @article{lentsch2022slicematch,
   title={SliceMatch: Geometry-guided Aggregation for Cross-View Pose Estimation},
