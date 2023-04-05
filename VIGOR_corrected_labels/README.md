@@ -44,4 +44,4 @@ VIGOR
 
 ## Visualize Corrected Labels
 
-The Jupyter notebook [VisualizeCorrectedLabels.ipynb](VisualizeCorrectedLabels.ipynb) can be used to visualize the corrected labels. The notebook should be placed in the folder of the VIGOR dataset, i.e., the directory should ``DIR_TO_VIGOR_DATASET/VIGOR/VisualizeCorrectedLabels.ipynb``.
+The Jupyter notebook [VisualizeCorrectedLabels.ipynb](VisualizeCorrectedLabels.ipynb) can be used to visualize the corrected labels. The notebook should be placed in the folder of the VIGOR dataset, i.e., the directory should be ``DIR_TO_VIGOR_DATASET/VIGOR/VisualizeCorrectedLabels.ipynb``.
