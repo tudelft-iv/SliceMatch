@@ -1,4 +1,4 @@
-# VIGOR Dataset: corrected labels
+# VIGOR Dataset: Corrected Labels
 
 The [VIGOR](https://github.com/Jeff-Zilence/VIGOR) dataset has been published in CVPR2021 (see [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_VIGOR_Cross-View_Image_Geo-Localization_Beyond_One-to-One_Retrieval_CVPR_2021_paper.pdf)). We corrected the labels of this dataset and the details can be found in Section A of the supplementary material of our paper.
 
