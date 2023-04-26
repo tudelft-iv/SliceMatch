@@ -5,7 +5,7 @@ The [VIGOR](https://github.com/Jeff-Zilence/VIGOR) dataset has been published in
 
 ## Data Structure
 
-The folder ``splits__corrected`` in this directory contains our corrected labels. After downloading the VIGOR dataset, the original ``splits`` folder should be replaced by the ``splits__corrected``folder. The data should be organized as:
+The folder ``splits__corrected`` in this directory contains our corrected labels. After downloading the VIGOR dataset, the original ``splits`` folder should be replaced by the ``splits__corrected`` folder. The data should be organized as:
 
 
 ```
