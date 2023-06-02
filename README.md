@@ -2,7 +2,7 @@
 
 
 
-[[`Paper`](https://openaccess.thecvf.com/content/CVPR2023/papers/Lentsch_SliceMatch_Geometry-Guided_Aggregation_for_Cross-View_Pose_Estimation_CVPR_2023_paper.pdf)] [[`BibTeX`](#citation-information)]
+[[`Paper`](https://openaccess.thecvf.com/content/CVPR2023/papers/Lentsch_SliceMatch_Geometry-Guided_Aggregation_for_Cross-View_Pose_Estimation_CVPR_2023_paper.pdf)] [[`Video`](https://www.youtube.com/watch?v=gql1dkQQNrA)] [[`BibTeX`](#citation-information)]
 
 
 
