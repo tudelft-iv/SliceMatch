@@ -2,7 +2,7 @@
 
 
 
-[[`Paper`](https://openaccess.thecvf.com/content/CVPR2023/html/Lentsch_SliceMatch_Geometry-Guided_Aggregation_for_Cross-View_Pose_Estimation_CVPR_2023_paper.html)] [[`Video`](https://www.youtube.com/watch?v=gql1dkQQNrA)] [[`BibTeX`](#citation-information)]
+[[`Paper`](https://openaccess.thecvf.com/content/CVPR2023/html/Lentsch_SliceMatch_Geometry-Guided_Aggregation_for_Cross-View_Pose_Estimation_CVPR_2023_paper.html)] [[`ArXiv`](https://arxiv.org/abs/2211.14651)] [[`Video`](https://www.youtube.com/watch?v=gql1dkQQNrA)] [[`BibTeX`](#citation-information)]
 
 
 
@@ -15,7 +15,34 @@ This work addresses cross-view camera pose estimation, i.e., determining the 3-D
 
 
 
+### Installation Instructions
+Soon to be updated!
+
+
+
+### Training SliceMatch
+Soon to be updated!
+
+
+
+### Testing SliceMatch
+Soon to be updated!
+
+
+
+### Compare to Our Results
+Soon to be updated!
+
+
+
+### VIGOR Dataset: Corrected Labels
+The corrected labels of the VIGOR dataset can be found [here](./VIGOR_corrected_labels).
+
+
+
 ### Citation Information
+If SliceMatch or the corrected labels of the VIGOR dataset are useful to your research, please kindly recognize our contributions by citing our CVPR paper:
+
 ```
 @InProceedings{Lentsch_2023_CVPR,
     author    = {Lentsch, Ted and Xia, Zimin and Caesar, Holger and Kooij, Julian F. P.},
