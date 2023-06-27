@@ -5,7 +5,7 @@ The [VIGOR](https://github.com/Jeff-Zilence/VIGOR) dataset has been published in
 
 ## Data Structure
 
-The folder [splits__corrected](./splits__corrected) contains our corrected labels. After downloading the VIGOR dataset, the original ``splits`` folder should be replaced by the [splits__corrected](./splits__corrected) folder. The data should be organized as:
+The folder [splits__corrected](./splits__corrected) contains our corrected labels. After downloading the VIGOR dataset, the original ``splits`` folder should be replaced by the ``splits__corrected`` folder. The data should be organized as:
 
 
 ```
@@ -44,4 +44,4 @@ VIGOR
 
 ## Visualize Corrected Labels
 
-The Jupyter notebook [VisualizeCorrectedLabels.ipynb](VisualizeCorrectedLabels.ipynb) can be used to visualize the corrected labels. The notebook should be placed in the folder of the VIGOR dataset, i.e., the directory should be ``DIR_TO_VIGOR_DATASET/VIGOR/VisualizeCorrectedLabels.ipynb``.
+The Jupyter notebook [Visualize_Corrected_Labels](Visualize_Corrected_Labels.ipynb) can be used to visualize the corrected labels. The notebook should be placed in the folder of the VIGOR dataset, i.e., the directory should be ``DIR_TO_VIGOR_DATASET/VIGOR/Visualize_Corrected_Labels.ipynb``.
