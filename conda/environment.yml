@@ -1,0 +1,23 @@
+name: SliceMatch_env
+channels:
+  - conda-forge
+  - defaults
+  - nvidia
+  - pytorch
+dependencies:
+  - python=3.8
+  
+  - pytorch=2.0
+  - torchvision=0.15
+  - torchaudio=2.0
+  - pytorch-cuda=11.8
+  
+  - matplotlib=3.7
+  - numpy=1.24
+  - shapely=2.0
+  
+  - jupyter=1.0
+  
+  - pip=23.1
+  - pip:
+    - opencv-python==4.7.0.72
