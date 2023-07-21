@@ -23,8 +23,15 @@ This work addresses cross-view camera pose estimation, i.e., determining the 3-D
 
 ### 1. Installation Instructions
 <p align="justify">
-Coming soon!
+Create the Anaconda environment named SliceMatch_env and activate the environment using the following commands:
 </p>
+
+
+
+```
+conda env create -f conda/environment.yml
+conda activate SliceMatch_env
+```
 
 
 
