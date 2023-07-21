@@ -24,6 +24,8 @@ class VIGORDataset(torch.utils.data.Dataset):
                 H (int) : height of (resized) ground image
                 W (int) : width of (resized) ground image
                 A (int) : height and width of (resized) aerial image
+                H_original (int) : height of original ground image
+                W_original (int) : width of original ground image
                 A_original (int): height and width of original aerial image
             transforms (obj) : instance of Compose class that contains the transformations
             oriens (dict) : dictionary with orientations (if empty use random orientations)
