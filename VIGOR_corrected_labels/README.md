@@ -7,7 +7,7 @@ The <a href="https://github.com/Jeff-Zilence/VIGOR">VIGOR</a> dataset has been p
 
 ## Data Structure
 <p align="justify">
-The folder <a href="./splits__corrected">splits__corrected</a> ontains our corrected labels. After downloading the VIGOR dataset, the original <code>splits</code> folder should be replaced by our <code>splits__corrected</code> folder. The data should be organized as:
+The folder <a href="./splits__corrected">splits__corrected</a> contains our corrected labels. After downloading the VIGOR dataset, the original <code>splits</code> folder should be replaced by our <code>splits__corrected</code> folder. The data should be organized as:
 </p>
 
 
