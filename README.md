@@ -62,7 +62,7 @@ Coming soon!
 
 ### VIGOR Dataset: Corrected Labels
 <p align="justify">
-The corrected labels of the VIGOR dataset can be found [here](./VIGOR_corrected_labels).
+The corrected labels of the VIGOR dataset can be found <a href="./VIGOR_corrected_labels">here</a>.
 </p>
 
 
